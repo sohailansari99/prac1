@@ -1,2 +1,4 @@
 hey i am first commit in prac1 hello.txt file 
+hey i have updated you
+
 
